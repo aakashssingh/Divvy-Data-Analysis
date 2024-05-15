@@ -2,5 +2,6 @@ As someone that loves to divvy all over the city I wanted to see how the people 
 The end goal is to have a visual dashboard to see how the change in weather affects the number of divvy trips.
 My hypothesis is that there will be a sharp decrease in the number of trip in cold, rainy, and windy weather. And there will be an increase in the number of trip on warmer and sunny weather, especially following a period of cold, rainy, cloudy weather.
 
+Weather data gathered from https://www.visualcrossing.com/
 
 Future Expandability into making this a webscraping project to add more weather and divvy data
